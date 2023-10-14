@@ -1,4 +1,4 @@
-# ppy.sb 查询
+![image](https://github.com/ArilyChan/arilychan.github.io/assets/67819028/024788c1-3634-4a59-9b8f-3c6ca377a216)# ppy.sb 查询
 
 国内领先的osu!全模式私服，[网站](https://osu.ppy.sb/)
 
@@ -29,6 +29,12 @@
 - 指令： **\*stat**`#<mode>` `<osuid或用户名>`
 
 - 示例： `*stat#mania arily`
+
+设置默认模式
+
+- 指令：  **\*\set**`#<mode>` `<osuid或用户名>`
+
+- 示例： `*setosu arily`
 
 ## userpage
 
